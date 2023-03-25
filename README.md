@@ -1,2 +1,5 @@
 # HistoricalOntario
-See what Ontario looked centuries ago by combining Atlas images and Google Earth
+See what Ontario looked centuries ago by combining atlas images and Google Earth.
+
+# Sources
+Atlases were downloaded from the [Canadaian County Atlas Digital Project](https://digital.library.mcgill.ca/countyatlas/default.htm) at McGill University.
