@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Wentworth County</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<GroundOverlay>
+		<name>Ancaster</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Wentworth_Ancaster.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.16622730622615,43.08304122586119,0 -79.85468806255358,43.14423354474177,0 -79.89814705240268,43.27327032865389,0 -80.21112601635852,43.21939695554174,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Barton</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Wentworth_Barton.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-79.93802154913648,43.19437241498036,0 -79.82724840264198,43.16889973364202,0 -79.78358915082613,43.27156979106032,0 -79.89037015970807,43.2993198926277,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Beverly North</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Wentworth_BeverlyNorth.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.11303664184865,43.23509697771085,0 -80.1704612492218,43.40504064400012,0 -80.27028826770703,43.38760393525245,0 -80.21388836913918,43.21927970275386,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Beverly South</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Wentworth_BeverlySouth.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.02511839615536,43.24932104318905,0 -80.07791494706001,43.42012620697049,0 -80.17456009008728,43.40422580200994,0 -80.11692943127878,43.23328060780796,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Binbrook</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Wentworth_Binbrook.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-79.8686583374259,43.07570826253242,0 -79.75231383618015,43.04868721754855,0 -79.70581004652601,43.16009645346571,0 -79.82001365331359,43.1836799768095,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Flamboro East</name>
+		<visibility>0</visibility>
+		<drawOrder>1</drawOrder>
+		<Icon>
+			<href>img/Wentworth_FlamboroEast.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.09259765119927,43.4331297078151,0 -79.86501606434931,43.26561101282153,0 -79.80527287604606,43.31332960738433,0 -80.03220336894509,43.47255565798826,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Flamboro West</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Wenthworth_FlamboroWest.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.085847637943,43.43440002531797,0 -80.02903629758033,43.24755542365181,0 -79.87151767726576,43.27843880710311,0 -79.93112015023645,43.45807840885625,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Glanford</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Wentworth_Glanford.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-79.97264372020992,43.1125188343475,0 -79.86024337534468,43.08710566306502,0 -79.81716798954592,43.18550484348118,0 -79.92827775326903,43.21204037938035,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Saltfleet</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Wentworth_Saltfleet.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-79.82771621677082,43.18332240760051,0 -79.65688846915003,43.14229349837694,0 -79.61364692857877,43.241537901813,0 -79.78425927829885,43.28512107640658,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+</Folder>
+</kml>

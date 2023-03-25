@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Waterloo County</name>
+	<open>1</open>
+	<GroundOverlay>
+		<name>North Dumfries</name>
+		<Icon>
+			<href>img/Waterloo_NorthDumfries.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.48465491120062,43.25313496692598,0 -80.22805745176498,43.29647272241289,0 -80.26778646474916,43.43165823741339,0 -80.52671681086987,43.38580188454461,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Waterloo</name>
+		<Icon>
+			<href>img/Waterloo_Waterloo.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.52896107101137,43.29644587822613,0 -80.20287949066314,43.4220884818857,0 -80.32152213736411,43.59579264558819,0 -80.66048822380026,43.47431914143254,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Wellesley</name>
+		<description>Google Earth has an aerial view from 1930</description>
+		<Icon>
+			<href>img/Waterloo_Wellesley.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.88311849114866,43.43420950215355,0 -80.62225632801855,43.41619481244936,0 -80.57263887687081,43.69260439549553,0 -80.83791837315604,43.71560872455937,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Wilmot</name>
+		<Icon>
+			<href>img/Waterloo_Wilmot.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.74093934122909,43.25648204765373,0 -80.47994054563753,43.29784104836414,0 -80.54603101871361,43.55270894178886,0 -80.80810924588489,43.5153163575883,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Woolwich</name>
+		<Icon>
+			<href>img/Waterloo_Woolwich.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.64400793077399,43.46249671569117,0 -80.34626944153867,43.57144867482395,0 -80.46245157607554,43.73051324258959,0 -80.74908268470868,43.60940277598868,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+</Folder>
+</kml>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Middlesex County</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<GroundOverlay>
+		<name>Adelaide</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Middlesex_Adelaide.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.79707990898994,42.93376820474407,0 -81.55080361587713,42.93396946495051,0 -81.55160561881536,43.07600295903539,0 -81.80169223595404,43.07793094007964,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Biddulph</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Middlesex_Biddulph.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.44349551897496,43.13688136099313,0 -81.21885895543151,43.20106580454197,0 -81.29316016295934,43.34442960324268,0 -81.52132257962658,43.27858568725799,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Caradoc</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Middlesex_Caradoc.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.3051005799534,42.83432956830603,0 -81.55154491067368,43.01605749781839,0 -81.69256331485784,42.91286888713397,0 -81.45769004829154,42.73415060212641,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Delaware</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Middlesex_Delaware.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.42204568278048,42.78694745521963,0 -81.28010282620231,42.82260924004647,0 -81.37225521117092,42.9920222002571,0 -81.50596649192212,42.95349373840698,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Ekfird</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Middlesex_Ekfrid.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.60183288536345,42.65428053435301,0 -81.45779112836705,42.75614311928224,0 -81.63130061643329,42.887239117049,0 -81.77256399676324,42.78466261958649,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Lobo</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Middlesex_Lobo.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.43855546058221,42.9062076796105,0 -81.2978867263663,43.01271612214895,0 -81.46664473779273,43.13556961848521,0 -81.6075861437799,43.03113475503298,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>London</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Middlesex_London.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.12052159926466,42.96595622062203,0 -81.2423266156398,43.20613823400453,0 -81.4730181809559,43.14015398032272,0 -81.34800976679084,42.89949875399643,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>McGillivray</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Middlesex_McGillivray.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.81164517545658,43.08908733132562,0 -81.43197127450205,43.13374614547305,0 -81.45979796660636,43.27684924326221,0 -81.83934744735235,43.23351656318971,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Metcalfe</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Middlesex_Metcalfe.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.62565390045935,42.77755077863402,0 -81.62514857608311,42.95215622083691,0 -81.79556855390928,42.95300810683669,0 -81.80020908621309,42.78054217760886,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Mosa</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Middlesex_Mosa.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.61882393279195,42.68475795021986,0 -81.83548033963842,42.84775615369037,0 -82.00102286631508,42.72021356189398,0 -81.7883776813636,42.56076096155074,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Nissouri West</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Middlesex_NissouriWest.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.14939009702195,43.00617862713931,0 -81.03131088451757,43.04231328494954,0 -81.13859701536884,43.25091252429377,0 -81.25679784272643,43.21479789090007,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>North Dorchester</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Middlesex_NorthDorchester.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.12081877172078,42.87458863329467,0 -80.88892009539448,42.90850053162287,0 -80.93423159467851,43.07092726883294,0 -81.16023722488785,43.03705828552428,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Westminster</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Middlesex_Westeminster.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.30019066481533,42.81332045610393,0 -81.04889418240874,42.87614587754757,0 -81.13895976373274,43.05334243357566,0 -81.39491140761348,42.98935174147419,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>East Williams</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Middlesex_EastWilliams.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.70007643652856,43.0465417222555,0 -81.49173947472154,43.01100359212749,0 -81.44840011591775,43.15533640219755,0 -81.65532084837814,43.18914639557978,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>West Williams</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>img/Middlesex_WestWilliams.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.8618724859206,43.06515458118793,0 -81.69098495564185,43.03560878593111,0 -81.64254667099338,43.19249678791506,0 -81.81397094590614,43.22102378628387,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+</Folder>
+</kml>
