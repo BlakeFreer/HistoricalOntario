@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Oxford County</name>
+	<open>1</open>
+	<GroundOverlay>
+		<name>North Norwich</name>
+		<Icon>
+			<href>C:/Users/bkfre/Pictures/Historic/HistoricalOntario/Oxford/img/Oxford_NorwichNorth.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.72401524113697,42.93512323913973,0 -80.53155361747196,42.96300791672722,0 -80.5592390514829,43.05997008694089,0 -80.75049374062817,43.02780484336346,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>South Norwich</name>
+		<Icon>
+			<href>C:/Users/bkfre/Pictures/Historic/HistoricalOntario/Oxford/img/Oxford_NorwichSouth.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.70497255734779,42.84892096886591,0 -80.49878831357931,42.88041053358645,0 -80.52940360070514,42.97140559065591,0 -80.72977484422933,42.94069137668523,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Nissouri East</name>
+		<Icon>
+			<href>img/Oxford_NissouriEast.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.10432172580423,43.02018841841494,0 -80.9248077213912,43.0727223941286,0 -81.02451400127245,43.27465499635164,0 -81.2084248354666,43.22165833339332,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>North Oxford and West Oxford</name>
+		<Icon>
+			<href>img/Oxford_OxfordNorthAndWest.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.97326495487637,42.95196426643102,0 -80.70360537932777,43.02803572419476,0 -80.76209831026992,43.14011672236603,0 -81.03442608888855,43.05394492724488,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Zorra East</name>
+		<Icon>
+			<href>img/Oxford_ZorraEast.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.81027876151212,43.11093237571584,0 -80.6277674691366,43.16429074413976,0 -80.73376357582674,43.3595579720082,0 -80.91329919466409,43.30388713746159,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Zorra West</name>
+		<Icon>
+			<href>img/Oxford_ZorraWest.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-81.07836543361501,43.2562746609617,0 -80.98055112516013,43.05919211054271,0 -80.80106032138946,43.11127043459184,0 -80.89769771150164,43.30663761473416,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Blandford</name>
+		<Icon>
+			<href>img/Oxford_Blandford.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.78299374731097,43.11264842214337,0 -80.60249114099193,43.14499977679002,0 -80.67625293906694,43.34369501785851,0 -80.85697337911787,43.30790392456957,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Blenheim</name>
+		<Icon>
+			<href>C:/Users/bkfre/Pictures/Historic/HistoricalOntario/Oxford/img/Oxford_Blenheim.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.61322183477093,43.13936444062732,0 -80.43197874352636,43.17571468493988,0 -80.51067372835843,43.37457555647953,0 -80.68878481793925,43.33682351716326,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>East Oxford</name>
+		<Icon>
+			<href>C:/Users/bkfre/Pictures/Historic/HistoricalOntario/Oxford/img/Oxford_OxfordEast.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.74469454201119,43.0186511155993,0 -80.56220501398236,43.05000990290355,0 -80.59996871488755,43.15908977709889,0 -80.77506784470049,43.13198840046496,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+	<GroundOverlay>
+		<name>Dereham</name>
+		<Icon>
+			<href>C:/Users/bkfre/Pictures/Historic/HistoricalOntario/Oxford/img/Oxford_Dereham.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-80.88221503785581,42.8209838401022,0 -80.69377034668412,42.85110773605987,0 -80.74707286347082,43.04658242636769,0 -80.93724342226676,43.01783677608828,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+</Folder>
+</kml>
